@@ -1,5 +1,5 @@
-The original repository is https://github.com/siddharthjain1611/Iris_dataset
-This is a copy to study about Iris_dataset from above.
+- The original repository is https://github.com/siddharthjain1611/Iris_dataset
+- This is a copy to study about Iris_dataset from above.
 
 # Iris Dataset
 
